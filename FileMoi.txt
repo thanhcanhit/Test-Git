@@ -3,4 +3,5 @@
     <span class="progress-value">10%</span>
   </div>
   <p>HTML</p>
+  <p>Nam đã xem </p>
 </div>
