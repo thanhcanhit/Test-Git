@@ -1,2 +1,6 @@
-hhe
-đã xem
+<div class="container">
+  <div class="circular-progress">
+    <span class="progress-value">10%</span>
+  </div>
+  <p>HTML</p>
+</div>
